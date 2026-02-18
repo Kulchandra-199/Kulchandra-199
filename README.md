@@ -13,25 +13,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kulchandra-199)
 [![Profile Views](https://komarev.com/ghpvc/?username=Kulchandra-199&style=for-the-badge&color=A5B4FC&label=VIEWS)](https://github.com/Kulchandra-199)
 
-<<<<<<< HEAD
 </div>
-=======
-### 🕷️ [Crawlee Service](https://github.com/Kulchandra-199/crawlee-service)
-**Scalable Web Scraping Microservice.**
-- **Architecture**: A robust REST API wrapper for **Crawlee** and **Playwright**.
-- **Scalability**: Designed for high-volume data extraction with built-in queue management.
-- **Microservices**: Fully Dockerized and ready for cloud deployment.
-
-### 🛍️ AI Shopping Assistant
-**Intelligent E-commerce Ecosystem.**
-- **Frontend**: [Shopping Assistant UI](https://github.com/Kulchandra-199/ai-shopping-assistant-frontend) - A modern, responsive interface for seamless product discovery.
-- **Backend**: [Shopping Assistant API](https://github.com/Kulchandra-199/ai-shopping-assistant-backend) - The intelligent core powering product aggregation and personalized recommendations.
-- **Full Stack**: Demonstrates a complete, end-to-end AI application architecture.
-
-
-
-
->>>>>>> 1a09adf (Add Crawlee Service to portfolio)
 
 ---
 
@@ -143,6 +125,23 @@ REST API  →  Crawlee + Playwright  →  BullMQ queue  →  Docker  →  horizo
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=flat-square&logo=redis&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+<br/>
+
+**[🛍️ AI Shopping Ecosystem](https://github.com/Kulchandra-199/ai-shopping-assistant-backend)** &nbsp;·&nbsp; *Intelligent E-commerce Architecture*
+
+```
+Frontend (React)  ↔  Backend (FastAPI)  ↔  AI Models  ↔  Product Aggregation
+```
+
+> Full-stack AI commerce system. Backend handles intent understanding and product aggregation. Frontend delivers a seamless chat-driven shopping experience.
+>
+> *   [**Shopping Assistant UI**](https://github.com/Kulchandra-199/ai-shopping-assistant-frontend) (Frontend)
+> *   [**Shopping Assistant API**](https://github.com/Kulchandra-199/ai-shopping-assistant-backend) (Backend)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/AI_Models-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
