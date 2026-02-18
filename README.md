@@ -13,7 +13,17 @@
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kulchandra-199)
 [![Profile Views](https://komarev.com/ghpvc/?username=Kulchandra-199&style=for-the-badge&color=A5B4FC&label=VIEWS)](https://github.com/Kulchandra-199)
 
+<<<<<<< HEAD
 </div>
+=======
+### 🕷️ [Crawlee Service](https://github.com/Kulchandra-199/crawlee-service)
+**Scalable Web Scraping Microservice.**
+- **Architecture**: A robust REST API wrapper for **Crawlee** and **Playwright**.
+- **Scalability**: Designed for high-volume data extraction with built-in queue management.
+- **Microservices**: Fully Dockerized and ready for cloud deployment.
+
+
+>>>>>>> 1a09adf (Add Crawlee Service to portfolio)
 
 ---
 
