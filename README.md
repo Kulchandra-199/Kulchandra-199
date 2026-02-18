@@ -28,6 +28,12 @@ I'm a developer passionate about building AI-powered applications, knowledge gra
 - **Multi-Source**: Aggregates data from professional backgrounds, company analysis, and digital footprints.
 - **Analysis**: Generates risk assessments and hiring recommendations based on synthesized data.
 
+### 📅 [Google Calendar MCP](https://github.com/Kulchandra-199/google-calendar-mcp)
+**Model Context Protocol Server for Google Calendar.**
+- **Integration**: Seamlessly connects LLMs to Google Calendar via the Model Context Protocol.
+- **Capabilities**: Enables agents to read, create, and manage calendar events directly.
+- **Utility**: Streamlines scheduling and time management workflows for AI assistants.
+
 ---
 
 ## 🛠️ Tech Stack
