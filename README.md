@@ -40,6 +40,13 @@ I'm a developer passionate about building AI-powered applications, knowledge gra
 - **Workflow**: Ideal companion for developers building web scrapers or automation scripts.
 - **Efficient**: Lightweight and fast, enhancing developer workflow directly in the browser.
 
+### 🖥️ [Screen Monitor (Electron)](https://github.com/Kulchandra-199/electron-vue-vite)
+**Real-time Screen Monitoring Prototype.**
+- **Stack**: Built with **Electron**, **Vue 3**, and **Vite**.
+- **Features**: Utilizes **Socket.io** for real-time screen data transmission.
+- **Design**: Demonstrates modern desktop app architecture and performance.
+
+
 ---
 
 ## 🛠️ Tech Stack
