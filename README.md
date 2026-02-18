@@ -8,8 +8,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kulchandra)
-[![Twitter](https://img.shields.io/badge/X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kulchandra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kulchandra-kandel-804275194/)
+[![Twitter](https://img.shields.io/badge/X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/high_on_js)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kulchandra-199)
 [![Profile Views](https://komarev.com/ghpvc/?username=Kulchandra-199&style=for-the-badge&color=A5B4FC&label=VIEWS)](https://github.com/Kulchandra-199)
 
@@ -17,142 +17,142 @@
 
 ---
 
-## The Difference
+## `> whoami`
 
-Most engineers integrate APIs. I design systems where models **reason over structured knowledge**, **orchestrate multi-step workflows**, and **operate with real-world impact**.
-
-My work lives at the boundary between:
-
-| What AI does today | What I'm building toward |
-|---|---|
-| Generate text | Make decisions & execute actions |
-| Flat vector search | Graph-aware multi-hop retrieval |
-| Static security rules | Adaptive LLM-powered fuzzing |
-| Chatbot interfaces | Autonomous enterprise agents |
-
-**Core domains:** Agentic architectures · Graph RAG · Knowledge modeling · Autonomous research · MCP integrations · Scalable automation infrastructure
+```
+focus    →  Agentic AI · Graph RAG · Knowledge Modeling · MCP Integrations · Automation Infrastructure
+interest →  Moving AI from "generate text" to "make decisions & execute actions"
+mindset  →  Systems, not features. Orchestration layers, not demos.
+```
 
 ---
 
-## Featured Systems
+## `> ls ./systems`
 
-<details open>
-<summary><b>🕵️ Fuzzing Agent — AI-Powered Semantic API Security</b></summary>
+<br/>
 
-> 🔗 [github.com/Kulchandra-199/fuzzing-agent](https://github.com/Kulchandra-199/fuzzing-agent)
+### 🔐 Security & Intelligence
 
-This isn't rule-based fuzzing. It uses **LLM reasoning to generate intelligent attack payloads** — replacing static heuristics with adaptive semantic understanding.
+---
 
-**How it works:** Ingest OpenAPI 3.x spec → Gemini generates contextually-aware payloads → automated triage clusters errors intelligently → minimizes payloads to their essential form.
+**[🕵️ Fuzzing Agent](https://github.com/Kulchandra-199/fuzzing-agent)** &nbsp;·&nbsp; *AI-Powered Semantic API Security*
+
+```
+OpenAPI 3.x spec  →  Gemini payload generation  →  automated triage  →  payload minimization
+```
+
+> Not rule-based. Uses LLM reasoning to generate attack payloads that understand API *semantics*, not just syntax. Replaces static security heuristics with adaptive intelligence. Ships with both a Streamlit UI and CLI.
 
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-000000?style=flat-square&logo=windowsterminal&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI_3.x-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
 
-</details>
+<br/>
 
-<details open>
-<summary><b>🧠 Graph RAG — Neo4j + Local LLMs for ATS Intelligence</b></summary>
+**[🔍 Deep Research Agent](https://github.com/Kulchandra-199/deep-background-research)** &nbsp;·&nbsp; *Autonomous Candidate Intelligence*
 
-> 🔗 [github.com/Kulchandra-199/data-extractor-local-ollama](https://github.com/Kulchandra-199/data-extractor-local-ollama)
+```
+trigger  →  agent loop  →  multi-source aggregation  →  risk scoring  →  hiring report
+```
 
-The core question: **how does graph structure change retrieval behavior compared to flat vector search?**
+> Autonomous pipeline that digs into professional history, digital footprint, and company signals without human intervention. Synthesizes structured risk assessments and hiring recommendations end-to-end.
 
-Models candidates ↔ skills ↔ companies ↔ relationships in Neo4j. Combines graph traversal with embedding retrieval. 100% local inference via Ollama.
+![GPT Researcher](https://img.shields.io/badge/GPT_Researcher-412991?style=flat-square&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-Exploring: community detection · summary embeddings · multi-hop reasoning · temporal graph awareness.
+---
+
+### 🧠 Knowledge & Retrieval
+
+---
+
+**[🧠 Graph RAG](https://github.com/Kulchandra-199/data-extractor-local-ollama)** &nbsp;·&nbsp; *Neo4j + Local LLMs for ATS Intelligence*
+
+```
+candidates ↔ skills ↔ companies ↔ relationships  →  graph traversal + embeddings  →  local LLM query
+```
+
+> Explores how graph structure changes retrieval behavior vs flat vector search. Models an ATS as a knowledge graph in Neo4j, then queries it with natural language via local Ollama. Active research: community detection, summary embeddings, multi-hop reasoning, temporal graph awareness.
 
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-</details>
+<br/>
 
-<details open>
-<summary><b>🔍 Deep Research Agent — Autonomous Candidate Intelligence</b></summary>
+**[🎙️ Voice Transcription System](https://github.com/Kulchandra-199/local-speech-transcriber-meeting-notes)** &nbsp;·&nbsp; *Raw Voice → Structured Knowledge*
 
-> 🔗 [github.com/Kulchandra-199/deep-background-research](https://github.com/Kulchandra-199/deep-background-research)
+```
+audio input  →  Whisper transcription  →  speaker diarization  →  structured output
+```
 
-An autonomous agent loop that aggregates multi-source data (professional history, digital footprint, company signals), synthesizes risk scores, and generates structured hiring recommendations — without a human in the loop.
-
-![OpenAI](https://img.shields.io/badge/GPT_Researcher-412991?style=flat-square&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🎙️ Voice Transcription System — Raw Voice → Structured Knowledge</b></summary>
-
-> 🔗 [github.com/Kulchandra-199/local-speech-transcriber-meeting-notes](https://github.com/Kulchandra-199/local-speech-transcriber-meeting-notes)
-
-Not just transcripts. Speaker diarization + Whisper + structured output pipelines = meeting intelligence.
+> Goes beyond transcripts. Identifies speakers, segments conversation, and outputs structured meeting intelligence ready for downstream processing.
 
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-</details>
+---
 
-<details>
-<summary><b>📅 Google Calendar MCP — LLMs That Control Real Calendars</b></summary>
+### ⚡ Agent Integrations & Infrastructure
 
-> 🔗 [github.com/Kulchandra-199/google-calendar-mcp](https://github.com/Kulchandra-199/google-calendar-mcp)
+---
 
-Model Context Protocol server that gives LLM agents native read/write access to Google Calendar. Bridges reasoning to real-world execution — agents that don't just suggest meetings, they schedule them.
+**[📅 Google Calendar MCP](https://github.com/Kulchandra-199/google-calendar-mcp)** &nbsp;·&nbsp; *LLMs That Own Your Schedule*
+
+```
+LLM  →  MCP server  →  Google Calendar API  →  read / create / update events
+```
+
+> Model Context Protocol server that gives AI agents native calendar control. Not a chatbot that suggests times — an agent that books them. Plug into any MCP-compatible LLM.
 
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Google Calendar](https://img.shields.io/badge/Google_Calendar-4285F4?style=flat-square&logo=googlecalendar&logoColor=white)
 
-</details>
+<br/>
 
-<details>
-<summary><b>🕷️ Crawlee Service — Reliable Data Infrastructure for AI Systems</b></summary>
+**[🕷️ Crawlee Service](https://github.com/Kulchandra-199/crawlee-service)** &nbsp;·&nbsp; *Reliable Data Infrastructure for AI Pipelines*
 
-> 🔗 [github.com/Kulchandra-199/crawlee-service](https://github.com/Kulchandra-199/crawlee-service)
+```
+REST API  →  Crawlee + Playwright  →  BullMQ queue  →  Docker  →  horizontal scale
+```
 
-Dockerized scraping microservice built for scale: Crawlee + Playwright backend, REST API wrapper, BullMQ queue architecture, horizontal scaling ready. The data layer that feeds AI pipelines reliably.
+> The unglamorous but essential layer: reliable, high-volume web extraction. Wraps Crawlee and Playwright in a queue-based microservice built for cloud deployment. Feeds AI systems with clean, consistent data.
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=flat-square&logo=redis&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-</details>
+---
 
-<details>
-<summary><b>🧩 Element Selector Extension + 🖥️ Electron Screen Monitor</b></summary>
+### 🛠️ Developer Tools
 
-**Element Selector** → [github.com/Kulchandra-199/element-selector-extension](https://github.com/Kulchandra-199/element-selector-extension)
-Developer-first Chrome extension for surgical DOM targeting. Built to accelerate scraping pipelines and automation testing.
+---
 
-![Chrome](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+**[🧩 Element Selector Extension](https://github.com/Kulchandra-199/element-selector-extension)** &nbsp;·&nbsp; *Surgical DOM Targeting in the Browser*
 
-**Screen Monitor** → [github.com/Kulchandra-199/electron-vue-vite](https://github.com/Kulchandra-199/electron-vue-vite)
-Real-time screen monitoring desktop app — Electron + Vue 3 + Vite + Socket.io. Exploring lightweight desktop AI tooling.
+> Chrome extension for point-and-click DOM element selection. Built to cut setup time when building scrapers or automation scripts — lives in your toolbar, out of your way.
+
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+<br/>
+
+**[🖥️ Electron Screen Monitor](https://github.com/Kulchandra-199/electron-vue-vite)** &nbsp;·&nbsp; *Real-Time Desktop Monitoring Prototype*
+
+> Modern desktop app architecture for real-time screen data streaming. Electron + Vue 3 + Vite + Socket.io. A prototype exploring lightweight desktop AI tooling.
 
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-
-</details>
-
----
-
-## How I Think
-
-```
-Systems, not features.
-
-Orchestration layers → Agent loops → State machines
-Knowledge graphs → Event-driven architecture → Scalable microservices
-
-I care about:
-  clean abstractions      reliable systems
-  intelligent automation  AI that reduces operational overhead
-```
+![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 ---
 
-## Stack
+## `> cat stack.json`
 
 <div align="center">
 
@@ -162,7 +162,7 @@ I care about:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-**AI / LLM Layer**
+**AI / LLM**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -176,7 +176,7 @@ I care about:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-**Backend / Frontend**
+**Frameworks**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -187,7 +187,7 @@ I care about:
 
 ---
 
-## Stats
+## `> gh stats`
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kulchandra-199&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=A5B4FC&text_color=C9D1D9&rank_icon=github&include_all_commits=true&hide=issues" />
@@ -200,11 +200,14 @@ I care about:
 
 ---
 
-## What's Next
+## `> cat focus.txt`
 
-Currently focused on: **agentic enterprise systems · graph-based reasoning · AI-native infrastructure**
+```
+Currently  →  agentic enterprise systems · graph-based reasoning · AI-native infrastructure
 
-Long-term goal: AI systems that autonomously operate inside real business workflows — not tools that assist humans, but systems that **execute alongside them**.
+Long-term  →  AI that autonomously operates inside real business workflows.
+              Not tools that assist humans — systems that execute alongside them.
+```
 
 ---
 
@@ -212,7 +215,7 @@ Long-term goal: AI systems that autonomously operate inside real business workfl
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,30&height=120&section=footer" width="100%"/>
 
-**[linkedin.com/in/kulchandra](https://linkedin.com/in/kulchandra) · [twitter.com/kulchandra](https://twitter.com/kulchandra)**
+**[linkedin.com/in/kulchandra-kandel-804275194](https://www.linkedin.com/in/kulchandra-kandel-804275194/) · [x.com/high_on_js](https://x.com/high_on_js)**
 
 *I don't just build apps. I build intelligent systems that operate.*
 
