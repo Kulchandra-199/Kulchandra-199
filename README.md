@@ -34,6 +34,12 @@ I'm a developer passionate about building AI-powered applications, knowledge gra
 - **Capabilities**: Enables agents to read, create, and manage calendar events directly.
 - **Utility**: Streamlines scheduling and time management workflows for AI assistants.
 
+### 🧩 [Element Selector Extension](https://github.com/Kulchandra-199/element-selector-extension)
+**Chrome Extension for Web Element Selection.**
+- **Productivity**: Quickly identify and select DOM elements for scraping or testing.
+- **Workflow**: Ideal companion for developers building web scrapers or automation scripts.
+- **Efficient**: Lightweight and fast, enhancing developer workflow directly in the browser.
+
 ---
 
 ## 🛠️ Tech Stack
