@@ -22,6 +22,14 @@
 - **Scalability**: Designed for high-volume data extraction with built-in queue management.
 - **Microservices**: Fully Dockerized and ready for cloud deployment.
 
+### 🛍️ AI Shopping Assistant
+**Intelligent E-commerce Ecosystem.**
+- **Frontend**: [Shopping Assistant UI](https://github.com/Kulchandra-199/ai-shopping-assistant-frontend) - A modern, responsive interface for seamless product discovery.
+- **Backend**: [Shopping Assistant API](https://github.com/Kulchandra-199/ai-shopping-assistant-backend) - The intelligent core powering product aggregation and personalized recommendations.
+- **Full Stack**: Demonstrates a complete, end-to-end AI application architecture.
+
+
+
 
 >>>>>>> 1a09adf (Add Crawlee Service to portfolio)
 
